@@ -1,1 +1,0 @@
-# consulta1_sql
